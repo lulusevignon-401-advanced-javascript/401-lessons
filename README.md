@@ -1,11 +1,11 @@
 # Code 401 - Advanced Software Development
 
 1. Lecture 1 [Node Ecosystem, TDD, CI/CD](./code401/class-01.md)
-<!-- 1. Lecture 2 [Classes, Inheritance, Functional Programming](./code401/class-02.md)
+1. Lecture 2 [Classes, Inheritance, Functional Programming](./code401/class-02.md)
 1. Lecture 3 [Data Modeling & NoSQL Databases](./code401/class-03.md)
 1. Lecture 4 [Advanced Mongo/Mongoose](./code401/class-04.md)
-1. Lecture 5 [Linked Lists](./code401/class-05.md)
-1. Lecture 6 [HTTP and REST](./code401/class-06.md)
+
+<!-- 1. Lecture 6 [HTTP and REST](./code401/class-06.md)
 1. Lecture 7 [Express](./code401/class-07.md)
 1. Lecture 8 [Express Routing & Connected API](./code401/class-08.md)
 1. Lecture 9 [API Server](./code401/class-09.md)
