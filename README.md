@@ -24,11 +24,10 @@
 1. Lecture 32 [Custom Hooks](./code401/class-32.md)
 1. Lecture 33 [Context API](./code401/class-33.md)
 1. Lecture 34 [`<Login />` and `<Auth />`](./code401/class-34.md)
-<!--1. Lecture 35 [Graphs](./code401/class-35.md)
 1. Lecture 36 [Application State with Redux](./code401/class-36.md)
 1. Lecture 37 [Redux - Combined Reducers](./code401/class-37.md)
 1. Lecture 38 [Redux - Asynchronous Actions](./code401/class-38.md)
-1. Lecture 39 [Redux - Additional Topics](./code401/class-39.md)
+<!--
 1. Lecture 41 [React Native](./code401/class-41.md)
 1. Lecture 42 [Ethics](./code401/class-42.md)
 1. Lecture 43 [Gatsby, next.js, and other JS Frameworks](./code401/class-43.md) -->
