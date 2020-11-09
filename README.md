@@ -5,11 +5,11 @@
 1. Lecture 3 [Data Modeling & NoSQL Databases](./code401/class-03.md)
 1. Lecture 4 [Advanced Mongo/Mongoose](./code401/class-04.md)
 
-<!-- 1. Lecture 6 [HTTP and REST](./code401/class-06.md)
+1. Lecture 6 [HTTP and REST](./code401/class-06.md)
 1. Lecture 7 [Express](./code401/class-07.md)
 1. Lecture 8 [Express Routing & Connected API](./code401/class-08.md)
 1. Lecture 9 [API Server](./code401/class-09.md)
-1. Lecture 10 [Stacks & Queues](./code401/class-10.md)
+<!--1. Lecture 10 [Stacks & Queues](./code401/class-10.md)
 1. Lecture 11 [Authentication](./code401/class-11.md)
 1. Lecture 12 [OAuth](./code401/class-12.md)
 1. Lecture 13 [Bearer Authorization](./code401/class-13.md)
